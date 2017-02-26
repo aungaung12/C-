@@ -1,2 +1,2 @@
-# C-
+# C++
 Class Project
